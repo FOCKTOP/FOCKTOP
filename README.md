@@ -2,7 +2,7 @@
 
 Hey,
 
-I'm FOCKTOP (Sem). I like to Develop for the game FiveM. I currently now (Lua, HTML, JS, CSS, Python, PHP & Java)
+I'm FOCKTOP (Sem). I like to Develop for the game FiveM. I currently know (Lua, HTML, JS, CSS, Python, PHP & Java)
 
 ## &#x1f4c8; Stats
 
